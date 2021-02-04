@@ -13,4 +13,7 @@ capsule {
   store-sections {
     section (GamesAndFun)
   }
+  store-sections {
+    section (GamesAndFun)
+  }
 }
